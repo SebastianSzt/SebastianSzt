@@ -9,6 +9,8 @@ Skills: C# / C++ / JS / HTML / CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/SebastianSzt)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sebastianszt//)  
 
+<!---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianszt)](https://github.com/sebastianszt/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sebastianszt&show_icons=true)
+--->
