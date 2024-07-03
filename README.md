@@ -11,6 +11,6 @@ Skills: C# / C++ / JS / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/SebastianSzt)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/SebastianSzt&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sebastianszt&hide=contribs,prs)
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/SebastianSzt/contributions?format=svg&private=true)  
