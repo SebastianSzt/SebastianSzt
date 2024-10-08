@@ -1,4 +1,4 @@
-### Hello there 👋, my name is Sebastian
+### Hello there 👋, I'm Sebastian
 ![](https://thorium.rocks/imgs/aboutme.png)
 
 I am 23 years old. I'm a student at Nicolaus Copernicus University in Toruń. I am passionate about technology and constantly seeking opportunities to learn and grow in the field of software development.
